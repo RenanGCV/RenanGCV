@@ -17,7 +17,7 @@
   <img alt="Renan-HTML" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
   <img alt="Renan-CSS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img alt="Renan-JS" height="80" width="80" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
-  <img alt="Renan-Unity" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
+  <img alt="Renan-Unity" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
   <img alt="Renan-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
