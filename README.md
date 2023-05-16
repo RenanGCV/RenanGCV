@@ -12,7 +12,7 @@
 
 <div align="center">
   
-   <h1 style="text-size: 20%"> I'm Game Developer and DiscordJS Developer! <h1>
+   <h1 style="text-size: 20%"> I'm Game Developer and Front-End Developer! <h1>
 
   <img alt="Renan-HTML" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
   <img alt="Renan-CSS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
