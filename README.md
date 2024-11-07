@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1 align="center" color="#0000ff" >Hi, I'm Renan Gonçalves</a>!</h1>
-<img align="center" alt="renanIcon" height="250" style="border-radius:50px;" src="IMG/renanIcon.jpg">
 
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
