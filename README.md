@@ -1,37 +1,135 @@
-<div align="center">
+# 👋 Olá, eu sou o Renan Gonçalves
 
-<h1 align="center" color="#0000ff" >Hi, I'm Renan Gonçalves</a>!</h1>
+🎮 Desenvolvedor de jogos em transição para a área de **Engenharia de Software**, com foco em **desenvolvimento backend** utilizando **C# e .NET**. Também tenho experiência prática com **frontend moderno**, usando **React**, **Vue** e **Vite**.
 
+---
 
-<h1 align="center">Welcome to my GitHub profile!</h1>
+## 🧠 Sobre mim
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RenanGCV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGCV&layout=compact&langs_count=1000&theme=tokyonight"/>
+- 💻 Estudando e desenvolvendo projetos com **C# e .NET** (APIs, microserviços, etc).
+- 🌐 Conhecimentos sólidos em **frontend**, com projetos utilizando **React**, **Vue** e **Vite**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Universidade Veiga de Almeida (UVA)**.
+- 🕹️ Background em **desenvolvimento de jogos** (Unity), o que aguçou minha lógica e criatividade.
+- 🐈 Amante de gatos, tecnologia, backend limpo e bem arquitetado.
+- 📍 Moro atualmente no **Rio de Janeiro – RJ**.
 
-</div>
+---
 
-<div align="center">
-  
-   <h1 style="text-size: 20%"> I'm Game Developer and Front-End Developer! <h1>
+## 💡 Tecnologias que utilizo
 
-  <img alt="Renan-HTML" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png">
-  <img alt="Renan-CSS" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-  <img alt="Renan-JS" height="80" width="80" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
-  <img alt="Renan-Unity" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
-  <img alt="Renan-Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
+### 💻 Backend
+- `C#`, `.NET`, `Entity Framework`
+- `Node.js` (básico)
+- `SQL Server`, `SQLite`
 
-<div align="center"> 
+### 🌐 Frontend
+- `React`, `Vue`, `Vite`
+- `JavaScript`, `HTML`, `CSS`
 
-  
-  <a href="https://instagram.com/rena.gcv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/PdMZRcRUDa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:renan.gcv.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-teodoro-lopes-gon%C3%A7alves-804014221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <div>
-  
-![Snake animation](https://github.com/CassioJ2/CassioJ2/blob/output/github-contribution-grid-snake.svg)
- 
- <div>
+### ⚙️ Outros
+- `Git`, `GitHub`
+- Estudando: `Docker`, `RabbitMQ`, `AWS`, `CI/CD`
+
+---
+
+## 📌 Objetivos
+
+- Atuar como **desenvolvedor backend** profissional.
+- Aprofundar conhecimentos em **microserviços**, **mensageria** e **boas práticas de software**.
+- Compartilhar e contribuir com projetos open source.
+
+---
+
+## 🛠️ Badges
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🌐 Portfólio
+
+👉 [![Acesse meu portfólio](https://img.shields.io/badge/Acessar%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renan-portfolio-2025.vercel.app/)
+
+---
+
+## 📫 Onde me encontrar
+
+- GitHub: [github.com/RenanGCV](https://github.com/RenanGCV)
+- LinkedIn: [linkedin.com/in/renan-teodoro-lopes-gonçalves-804014221](https://linkedin.com/in/renan-teodoro-lopes-gonçalves-804014221)
+- E-mail: renan.gcv.contato@gmail.com
+
+---
+
+# 👋 Hi, I'm Renan Gonçalves
+
+🎮 I'm a game developer transitioning into **Software Engineering**, focused on **backend development** with **C# and .NET**. I also have hands-on experience with **modern frontend frameworks** like **React**, **Vue**, and **Vite**.
+
+---
+
+## 🧠 About Me
+
+- 💻 Currently studying and building projects using **C# and .NET** (APIs, microservices, etc.).
+- 🌐 Solid frontend skills with projects built in **React**, **Vue**, and **Vite**.
+- 🎓 Pursuing a degree in **Systems Analysis and Development** at **Veiga de Almeida University (UVA)**.
+- 🕹️ Game dev background helped sharpen my logic, creativity, and resilience.
+- 🐈 Cat lover, backend enthusiast, and curious mind.
+- 📍 Living in **Rio de Janeiro, Brazil**.
+
+---
+
+## 💡 Technologies I Use
+
+### 💻 Backend
+- `C#`, `.NET`, `Entity Framework`
+- Basic knowledge of `Node.js`
+- `SQL Server`, `SQLite`
+
+### 🌐 Frontend
+- `React`, `Vue`, `Vite`
+- `JavaScript`, `HTML`, `CSS`
+
+### ⚙️ Other Tools
+- `Git`, `GitHub`
+- Currently learning: `Docker`, `RabbitMQ`, `AWS`, `CI/CD`
+
+---
+
+## 📌 Goals
+
+- Work professionally as a **backend developer**.
+- Deepen my skills in **microservices**, **messaging systems**, and **clean architecture**.
+- Contribute to and learn from the open-source community.
+
+---
+
+## 🛠️ Badges
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🌐 Portfolio
+
+👉 [![Visit my portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renan-portfolio-2025.vercel.app/)
+
+---
+
+## 📫 Connect with me
+
+- GitHub: [github.com/RenanGCV](https://github.com/RenanGCV)
+- LinkedIn: [linkedin.com/in/renan-teodoro-lopes-gonçalves-804014221](https://linkedin.com/in/renan-teodoro-lopes-gonçalves-804014221)
+- Email: renan.gcv.contato@gmail.com
+
+---
+
+⭐ Let’s connect if you’re into backend development, clean architecture, or want to collaborate on something cool!
